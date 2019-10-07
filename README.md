@@ -7,12 +7,15 @@ Startup dünyasında sık kullan kelimeler ve terimler
 
 - [Giriş](#giri%C5%9F)
 - [Sözlük](#s%C3%B6zl%C3%BCk)
+  - [\](#%5C)
+    - [3F (Friends, Fools and Family)](#3f-friends-fools-and-family)
   - [A](#a)
     - [Accelerator](#accelerator)
     - [Angel investment](#angel-investment)
     - [Acquisition](#acquisition)
   - [B](#b)
     - [Boostrapping](#boostrapping)
+    - [Brand Equity](#brand-equity)
     - [Bridge financing](#bridge-financing)
     - [Burn rate](#burn-rate)
   - [C](#c)
@@ -21,11 +24,16 @@ Startup dünyasında sık kullan kelimeler ve terimler
     - [Crowdfunding](#crowdfunding)
   - [E](#e)
     - [Exit](#exit)
+    - [Elevator Pitch](#elevator-pitch)
+  - [F](#f)
+    - [Fintech](#fintech)
   - [I](#i)
     - [Incubator](#incubator)
     - [Initial Public Offering (IPO)](#initial-public-offering-ipo)
+    - [IP – Intellectual Property](#ip--intellectual-property)
     - [Investment round](#investment-round)
   - [L](#l)
+    - [Launch](#launch)
     - [Letter of intent](#letter-of-intent)
   - [M](#m)
     - [MVP (Minimum viable product)](#mvp-minimum-viable-product)
@@ -48,6 +56,11 @@ Bir şekilde startup dünyasına giriş yaptıysanız (ister girişimci, ister y
 
 # Sözlük
 
+## \#
+
+### 3F (Friends, Fools and Family)
+Türkçe'ye Türkçe’de `3A` (Arkadaşlar, Aptallar ve Aile) olarak çevirlebilir. Bu kısaltma taze girişimcilerin yolun başındayken kolayca destek alabilecekleri kaynakları açıklayan eğlenceli bir terimdir. `Aptal` kelimesi bire bir tercümeden dolayı seçilmiştir. Aslında kolay ikna edilebilir kişiler için kullanılır.
+
 ## A
 
 ### Accelerator
@@ -64,6 +77,9 @@ Kelime anlamı `devralma`'dır, startup dünyasında ise satın alma anlamına g
 
 ### Boostrapping
 `Özyükleme` ya da `özyatırım` olarak çevrilebilir. `Bootstrapping`, kişisel tasarruf ve ya (şanslıysanız) ilk satışlardan elde edilen paradan başka bir şey olmadan sıfırdan bir girişim kurmaya denir. Ayrıca bir isim olarak da kullanılır: boostrap, girişimci tarafından çok az para ile veya dışardan hiç bir yatırım ve destek olmadan başlatılan bir girişimdir.
+
+### Brand Equity
+Türkçe'ye `marka değeri` olarak çevirebiliriz. Marka değeri, bir şirketin eşdeğer bir rakiple karşılaştırıldığında bir üründen (ayırt edilebilir bir isme sahip) ürettiği değer anlamına gelir.
 
 ### Bridge financing
 `geçiş yatırımı` ve ya `köprü yatırımı` olarak çevirilebilir. `Bridge financing`, yatırımcıların girişimin bir sonraki fon turuna ulaşmasına yardımcı olmak amacıyla, paralarını geri alabilmeleri şartıyla, kısa vadeli kredi şeklinde yatırım yapmalarıdır. Temel olarak, bir başlangıç şirketini ayakta tutmak için yatırımlar arasına `köprü` kurmak için kullanılır.
@@ -89,6 +105,13 @@ Kitle fonlaması olarak Türkçe'de yaygınlaşmıştır. `Crowdfunding`, yeni b
 ### Exit
 `çıkış` ya da `kaçış` diye çevirilebilir. Bir yatırımcının (genellikle bir risk sermayesi sahibi) kazançlarını (veya zararlarını) toparlamak için bir firmadaki hissesini satmasıdır. Genellikle yatırım kararı sırasında planlanan bir harekettir ve girişimin genel planına da dahil edilebilir.
 
+### Elevator Pitch
+Birebir çevirisi `Asansör Konuşması` olabilir. Bir girişimcinin asansör yolculuğu kadar kısa bir süre içinde (30-60 saniye) kendini tanıtma, fikirlerini ifade etme ve karşısındakini ikna etmesini sağlayacak kısa sunumdur.
+
+## F
+
+### Fintech
+`Finansal teknoloji` olarak çevirebiliriz ve kısaltma olarak da `fintek` kullanabiliriz. Fintek, finansal hizmetlerin sunumunu ve kullanımını iyileştirmeyi ve otomatikleştirmeyi amaçlayan yeni teknolojiyi tanımlamak için kullanılır.
 
 ## I
 
@@ -98,11 +121,17 @@ Kitle fonlaması olarak Türkçe'de yaygınlaşmıştır. `Crowdfunding`, yeni b
 ### Initial Public Offering (IPO)
 `Halka arz` olarak Türkçe'ye çevrilebilir. Initial Public Offering (IPO), yeni bir hisse ihracında özel bir şirketin hisselerinin ilk defa halka sunulması sürecini ifade eder. Bu payı ihracı, bir şirketin yatırımcılarından sermaye artırmasına izin verir.
 
+### IP – Intellectual Property
+Entelektüel sermaye demektir. Bir şirketin şirket içi bilgi birikimi anlamına gelir. Bu şirkete özel ve rakipleri tarafından kopyalayamayacağı için değerlidir.
+
 ### Investment round
 Yatırım turu demektir. Yatırım turu, yatırım tipinin daha spesifik bir şekilde belirlenmesine ilişkin bilgilerin bulunmadığı durumlardaki zaman aralığının adı için kullanılan genel terimdir.
 
 
 ## L
+
+### Launch
+Türkçe'de lansman olarak kullanılır. Bir girişim fikrinin hayata geçmesi, veya bir ürünün  aktif olarak pazara sunulmasını demektir.
 
 ### Letter of intent
 Niyet belgesi olarak çevirebiliriz. Bir yatırımcı ile startup arasındaki belge, finansman için bağlayıcı olmayan temel şart ve koşulları içerir. İlgili taraflar arasında bir anlaşmaya varıldığında, bu belgeye dayanan bağlayıcı bir anlaşma hazırlanır.
