@@ -114,11 +114,16 @@ Birebir çeviri olarak tohum fonu denebilir. Aile üyeleri, arkadaşlar, bankala
 Çok büyülü bir kelime gibi kullanılıyor. Türkçe'ye de artık yerleşmiş olduğunu kabul edebiliriz. Girişim kelimesi anlamını tam olarak karşılamıyor. Genel bir tanım olarak, operasyonun erken veya büyüme aşamalasında olan, genellikle üç yaşın altındaki ve kârlı bir şirket olma hedefinde olan şirketlerdir. Çok farklı tanımlamaları da yapılıyor ve zamanla oturmuş bir tanıma ulaşacaktır...
 
 
-
 ## U
 
 ### Unicorn
 `Unicorn` kelimesinin Türkçe karşılığı tek boynuzlu attır. Yaygın olarak çevirisi değil de kendisi kullanılır. 1 milyar doların üzerinde değere ulaşmış startuplara verilen addır. Bir başarı göstergesidir. Güncel bir listeye https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies adresinden erişilebilir.
+
+
+## V
+
+### VC (Venture capital/Venture capitalist)
+Aslında `risk sermayesi` olarak bilinir ama startup rüzgarı ile birlikte `girişim sermayesi` olarak da anılmaya başlandı. Kelime anlamı, firmaların özkaynak karşılığında yüksek büyüme potansiyeli olan küçük, yüksek riskli, satartuplara sağladığı finansmandır. VC (Venture capitalist, risk yatırımcısı) aynı zamanda risk sermayesi yatırım şirketlerinde çalışan yatırımcılara da denir.
 
 
 # Katkıda bulunmak için ne yapabilirim?
