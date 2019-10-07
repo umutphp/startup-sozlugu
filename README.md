@@ -33,6 +33,8 @@ Startup dünyasında sık kullan kelimeler ve terimler
     - [Startup](#startup)
   - [U](#u)
     - [Unicorn](#unicorn)
+  - [V](#v)
+    - [VC (Venture capital/Venture capitalist)](#vc-venture-capitalventure-capitalist)
 - [Katkıda bulunmak için ne yapabilirim?](#katk%C4%B1da-bulunmak-i%C3%A7in-ne-yapabilirim)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
