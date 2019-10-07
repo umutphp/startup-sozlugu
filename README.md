@@ -130,3 +130,4 @@ Aslında `risk sermayesi` olarak bilinir ama startup rüzgarı ile birlikte `gir
 
 
 # Katkıda bulunmak için ne yapabilirim?
+[CONTRIBUTING.md](CONTRIBUTING.md) dosyasına bakınız.
