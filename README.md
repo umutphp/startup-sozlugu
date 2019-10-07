@@ -7,7 +7,7 @@ Startup dünyasında sık kullan kelimeler ve terimler
 
 - [Giriş](#giri%C5%9F)
 - [Sözlük](#s%C3%B6zl%C3%BCk)
-  - [\](#%5C)
+  - [0-9](#0-9)
     - [3F (Friends, Fools and Family)](#3f-friends-fools-and-family)
   - [A](#a)
     - [Accelerator](#accelerator)
@@ -56,7 +56,7 @@ Bir şekilde startup dünyasına giriş yaptıysanız (ister girişimci, ister y
 
 # Sözlük
 
-## \#
+## 0-9
 
 ### 3F (Friends, Fools and Family)
 Türkçe'ye Türkçe’de `3A` (Arkadaşlar, Aptallar ve Aile) olarak çevirlebilir. Bu kısaltma taze girişimcilerin yolun başındayken kolayca destek alabilecekleri kaynakları açıklayan eğlenceli bir terimdir. `Aptal` kelimesi bire bir tercümeden dolayı seçilmiştir. Aslında kolay ikna edilebilir kişiler için kullanılır.
