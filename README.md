@@ -12,6 +12,15 @@ Startup dünyasında sık kullan kelimeler ve terimler
     - [Angel investment](#angel-investment)
   - [B](#b)
     - [Boostrapping](#boostrapping)
+    - [Bridge financing](#bridge-financing)
+    - [Burn rate](#burn-rate)
+  - [C](#c)
+    - [Cash burn rate](#cash-burn-rate)
+    - [Crowdfunding](#crowdfunding)
+  - [E](#e)
+    - [Exit](#exit)
+  - [I](#i)
+    - [Incubator](#incubator)
 - [Katkıda bulunmak için ne yapabilirim?](#katk%C4%B1da-bulunmak-i%C3%A7in-ne-yapabilirim)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
