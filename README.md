@@ -22,8 +22,17 @@ Startup dünyasında sık kullan kelimeler ve terimler
   - [I](#i)
     - [Incubator](#incubator)
     - [Initial Public Offering (IPO)](#initial-public-offering-ipo)
+  - [L](#l)
+    - [Letter of intent](#letter-of-intent)
   - [M](#m)
     - [MVP (Minimum viable product)](#mvp-minimum-viable-product)
+  - [P](#p)
+    - [Pitch deck](#pitch-deck)
+  - [S](#s)
+    - [Seed funding](#seed-funding)
+    - [Startup](#startup)
+  - [U](#u)
+    - [Unicorn](#unicorn)
 - [Katkıda bulunmak için ne yapabilirim?](#katk%C4%B1da-bulunmak-i%C3%A7in-ne-yapabilirim)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -77,6 +86,12 @@ Kitle fonlaması olarak Türkçe'de yaygınlaşmıştır. `Crowdfunding`, yeni b
 `Halka arz` olarak Türkçe'ye çevrilebilir. Initial Public Offering (IPO), yeni bir hisse ihracında özel bir şirketin hisselerinin ilk defa halka sunulması sürecini ifade eder. Bu payı ihracı, bir şirketin yatırımcılarından sermaye artırmasına izin verir.
 
 
+## L
+
+### Letter of intent
+Niyet belgesi olarak çevirebiliriz. Bir yatırımcı ile startup arasındaki belge, finansman için bağlayıcı olmayan temel şart ve koşulları içerir. İlgili taraflar arasında bir anlaşmaya varıldığında, bu belgeye dayanan bağlayıcı bir anlaşma hazırlanır.
+
+
 ## M
 
 ### MVP (Minimum viable product)
@@ -84,6 +99,26 @@ Kitle fonlaması olarak Türkçe'de yaygınlaşmıştır. `Crowdfunding`, yeni b
 Türkçe'de genellikle MVP kısaltması kullanılır. Yeni bir ürünün [erken benimseyenleri](https://en.wikipedia.org/wiki/Early_adopter) (ilk sadık kullanıcılar) tatmin etmeyi amaçlayan temel bir sürümünün geliştirilmesini içeren teknik. Ürün daha sonra ilk kullanıcılardan gelen geri bildirimler dikkate alınarak başka özellikler eklenerek geliştirilir.
 
 
+## P
+
+### Pitch deck
+Birebir Türkçe bir eşleniği yoktur (umarım şimdilik). `pitch deck`, yatırımcılara genel bir bakış açısı sağlamak için, ürününüzü sergileyen, iş modelinizi paylaşan, para kazanma stratejinize gösteren ve ekibinizi tanıtan kısa bir sunumdur. Ünlü bazı şirketlerin örneklerini https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/ adresinden bulabilirsiniz.
+
+
+## S
+
+### Seed funding
+Birebir çeviri olarak tohum fonu denebilir. Aile üyeleri, arkadaşlar, bankalar veya bir yatırımcı tarafından yapılan küçük, erken aşamadaki ilk yatırım turuna genel olarak `seed funding` denir.
+
+### Startup
+Çok büyülü bir kelime gibi kullanılıyor. Türkçe'ye de artık yerleşmiş olduğunu kabul edebiliriz. Girişim kelimesi anlamını tam olarak karşılamıyor. Genel bir tanım olarak, operasyonun erken veya büyüme aşamalasında olan, genellikle üç yaşın altındaki ve kârlı bir şirket olma hedefinde olan şirketlerdir. Çok farklı tanımlamaları da yapılıyor ve zamanla oturmuş bir tanıma ulaşacaktır...
+
+
+
+## U
+
+### Unicorn
+`Unicorn` kelimesinin Türkçe karşılığı tek boynuzlu attır. Yaygın olarak çevirisi değil de kendisi kullanılır. 1 milyar doların üzerinde değere ulaşmış startuplara verilen addır. Bir başarı göstergesidir. Güncel bir listeye https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies adresinden erişilebilir.
 
 
 # Katkıda bulunmak için ne yapabilirim?
