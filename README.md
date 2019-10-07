@@ -69,7 +69,7 @@ Kelime anlamı `devralma`'dır, startup dünyasında ise satın alma anlamına g
 `geçiş yatırımı` ve ya `köprü yatırımı` olarak çevirilebilir. `Bridge financing`, yatırımcıların girişimin bir sonraki fon turuna ulaşmasına yardımcı olmak amacıyla, paralarını geri alabilmeleri şartıyla, kısa vadeli kredi şeklinde yatırım yapmalarıdır. Temel olarak, bir başlangıç şirketini ayakta tutmak için yatırımlar arasına `köprü` kurmak için kullanılır.
 
 ### Burn rate
-Türkçe'ye `negatif nakit akışı` olarak çevirebiliriz. `Burn rate`, bir şirketin kârlılığa ulaşmadan önce genel giderler için para (genellikle risk sermayesi) harcama hızdır. Çoğunlukla aya göre hesaplanır (örneğin, ayda 5.000 dolar vb.).
+Türkçe'ye `negatif nakit akışı` olarak çevirebiliriz. `Burn rate`, bir şirketin kârlılığa ulaşmadan önce genel giderler için para (genellikle risk sermayesi) harcama hızıdır. Çoğunlukla aya göre hesaplanır (örneğin, ayda 5.000 dolar vb.).
 
 
 ## C
