@@ -67,7 +67,7 @@ Türkçe'ye Türkçe’de `3A` (Arkadaşlar, Aptallar ve Aile) olarak çevirlebi
 Türkçe'ye `hızlandırıcı` diye çevirebiliriz. Küçük işletmelerin ve girişimlerin büyümesine yardımcı olacak fon, tavsiye, danışmanlık, bağlantı, satış, mentorluk, eğitim bileşenleri ve sonuçlandırma gibi destekler sunan organizasyonlar veya programlara denir.
 
 ### Angel investment
-Türkçe'ye yanlış anlaşılmalara sebep olsa da `melek yatırım` olarak çevirebiliriz. Bu tür bir yatırım, genellikle başlangıçta girişim ilk aşamalarında olduğunda gerçekleşir. Bir yatırımcı ya da bir "iş meleği", şirketteki bir miktar hisse için açılış ya da büyüme sermayesi sağlar. Melek kelimesi karışılıksız ve katıksız bir iyiliği temsil etmez. Yatırımcı kar amacı gütmeden ve kendini korumadan kaynak yatırmayacağı halde melek denmesinin sebebi ilk ve başlatıcı olması olabilir.
+Türkçe'ye [yanlış anlaşılmalara](https://youtu.be/7PMvex5PZF0?t=653) sebep olsa da `melek yatırım` olarak çevirebiliriz. Bu tür bir yatırım, genellikle başlangıçta girişim ilk aşamalarında olduğunda gerçekleşir. Bir yatırımcı ya da bir "iş meleği", şirketteki bir miktar hisse için açılış ya da büyüme sermayesi sağlar. Melek kelimesi karışılıksız ve katıksız bir iyiliği temsil etmez. Yatırımcı kar amacı gütmeden ve kendini korumadan kaynak yatırmayacağı halde melek denmesinin sebebi ilk ve başlatıcı olması olabilir.
 
 ### Acquisition
 Kelime anlamı `devralma`'dır, startup dünyasında ise satın alma anlamına gelir. Bir satın alma, bir şirketin diğer şirketin kontrolünü kazanmak için hisselerinin çoğunu (%50'den fazlası) veya tamamını satın almasıdır.
