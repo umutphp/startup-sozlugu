@@ -21,6 +21,9 @@ Startup dünyasında sık kullan kelimeler ve terimler
     - [Exit](#exit)
   - [I](#i)
     - [Incubator](#incubator)
+    - [Initial Public Offering (IPO)](#initial-public-offering-ipo)
+  - [M](#m)
+    - [MVP (Minimum viable product)](#mvp-minimum-viable-product)
 - [Katkıda bulunmak için ne yapabilirim?](#katk%C4%B1da-bulunmak-i%C3%A7in-ne-yapabilirim)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -68,6 +71,17 @@ Kitle fonlaması olarak Türkçe'de yaygınlaşmıştır. `Crowdfunding`, yeni b
 ## I
 
 ### Incubator
+`Kuluçka` olarak Türkçe'ye çevrilebilir. `Incubator`, yeni şirketlere ve girişimlere yönetim eğitimi veya ofis alanı gibi hizmetler sunarak kurumsallaşmasına ve gelişmesine yardımcı olan bir şirket ve ya organizasyondur. Sık sık  hızlandırıcılar ([accelerator](#accelerator) ) ile karıştırılırlar. Hızlandırıcı bitki fidelerinin yetişmesi için en uygun koşulları elde etmek adına bir sera kurar, kuluçka merkezi ise filizlenme ve büyüme için en iyi toprakla kaliteli tohumları eşleştirmeye yardımcı olur.
+
+### Initial Public Offering (IPO)
+`Halka arz` olarak Türkçe'ye çevrilebilir. Initial Public Offering (IPO), yeni bir hisse ihracında özel bir şirketin hisselerinin ilk defa halka sunulması sürecini ifade eder. Bu payı ihracı, bir şirketin yatırımcılarından sermaye artırmasına izin verir.
+
+
+## M
+
+### MVP (Minimum viable product)
+Yeni bir ürünün erken benimseyenleri (ilk sadık kullanıcılar) tatmin etmeyi amaçlayan temel bir sürümünün geliştirilmesini içeren teknik. Ürün daha sonra ilk kullanıcılardan gelen geri bildirimler dikkate alınarak başka özellikler eklenerek geliştirilir. 
+![](/assets/images/mvp.png | width=100)
 
 
 
