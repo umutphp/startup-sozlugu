@@ -24,6 +24,7 @@ Startup dünyasında sık kullan kelimeler ve terimler
   - [I](#i)
     - [Incubator](#incubator)
     - [Initial Public Offering (IPO)](#initial-public-offering-ipo)
+    - [Investment round](#investment-round)
   - [L](#l)
     - [Letter of intent](#letter-of-intent)
   - [M](#m)
@@ -36,6 +37,7 @@ Startup dünyasında sık kullan kelimeler ve terimler
   - [U](#u)
     - [Unicorn](#unicorn)
   - [V](#v)
+    - [Valuation](#valuation)
     - [VC (Venture capital/Venture capitalist)](#vc-venture-capitalventure-capitalist)
 - [Katkıda bulunmak için ne yapabilirim?](#katk%C4%B1da-bulunmak-i%C3%A7in-ne-yapabilirim)
 
@@ -96,6 +98,9 @@ Kitle fonlaması olarak Türkçe'de yaygınlaşmıştır. `Crowdfunding`, yeni b
 ### Initial Public Offering (IPO)
 `Halka arz` olarak Türkçe'ye çevrilebilir. Initial Public Offering (IPO), yeni bir hisse ihracında özel bir şirketin hisselerinin ilk defa halka sunulması sürecini ifade eder. Bu payı ihracı, bir şirketin yatırımcılarından sermaye artırmasına izin verir.
 
+### Investment round
+Yatırım turu demektir. Yatırım turu, yatırım tipinin daha spesifik bir şekilde belirlenmesine ilişkin bilgilerin bulunmadığı durumlardaki zaman aralığının adı için kullanılan genel terimdir.
+
 
 ## L
 
@@ -132,6 +137,9 @@ Birebir çeviri olarak tohum fonu denebilir. Aile üyeleri, arkadaşlar, bankala
 
 
 ## V
+
+### Valuation
+Türkçe çevirisi değerleme olarak yapılabilir. Değerleme, bir varlığın veya bir şirketin mevcut (veya öngörülen) değerini belirlemek için kullanılan analitik süreçtir. Değerleme yapmak için kullanılan birçok teknik vardır. Bir şirkete değer veren bir analist, işletme yönetimine, sermaye yapısının oluşumuna, gelecekteki kazanç beklentisine ve varlıklarının piyasa değerine bakar. Startup değerlemesi yapılırken bu listeye çok daha farklı (daha soyut) maddeler de eklenebilir. 
 
 ### VC (Venture capital/Venture capitalist)
 Aslında `risk sermayesi` olarak bilinir ama startup rüzgarı ile birlikte `girişim sermayesi` olarak da anılmaya başlandı. Kelime anlamı, firmaların özkaynak karşılığında yüksek büyüme potansiyeli olan küçük, yüksek riskli, satartuplara sağladığı finansmandır. VC (Venture capitalist, risk yatırımcısı) aynı zamanda risk sermayesi yatırım şirketlerinde çalışan yatırımcılara da denir.
