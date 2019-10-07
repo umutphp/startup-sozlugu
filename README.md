@@ -81,7 +81,7 @@ Kitle fonlaması olarak Türkçe'de yaygınlaşmıştır. `Crowdfunding`, yeni b
 
 ### MVP (Minimum viable product)
 <a href="/assets/images/mvp.png"><img src="/assets/images/mvp.png" align="right" width="120px" ></a>
-Yeni bir ürünün erken benimseyenleri (ilk sadık kullanıcılar) tatmin etmeyi amaçlayan temel bir sürümünün geliştirilmesini içeren teknik. Ürün daha sonra ilk kullanıcılardan gelen geri bildirimler dikkate alınarak başka özellikler eklenerek geliştirilir.
+Türkçe'de genellikle MVP kısaltması kullanılır. Yeni bir ürünün [erken benimseyenleri](https://en.wikipedia.org/wiki/Early_adopter) (ilk sadık kullanıcılar) tatmin etmeyi amaçlayan temel bir sürümünün geliştirilmesini içeren teknik. Ürün daha sonra ilk kullanıcılardan gelen geri bildirimler dikkate alınarak başka özellikler eklenerek geliştirilir.
 
 
 
