@@ -10,12 +10,14 @@ Startup dünyasında sık kullan kelimeler ve terimler
   - [A](#a)
     - [Accelerator](#accelerator)
     - [Angel investment](#angel-investment)
+    - [Acquisition](#acquisition)
   - [B](#b)
     - [Boostrapping](#boostrapping)
     - [Bridge financing](#bridge-financing)
     - [Burn rate](#burn-rate)
   - [C](#c)
     - [Cash burn rate](#cash-burn-rate)
+    - [Competitive Intelligence](#competitive-intelligence)
     - [Crowdfunding](#crowdfunding)
   - [E](#e)
     - [Exit](#exit)
@@ -52,6 +54,9 @@ Türkçe'ye `hızlandırıcı` diye çevirebiliriz. Küçük işletmelerin ve gi
 ### Angel investment
 Türkçe'ye yanlış anlaşılmalara sebep olsa da `melek yatırım` olarak çevirebiliriz. Bu tür bir yatırım, genellikle başlangıçta girişim ilk aşamalarında olduğunda gerçekleşir. Bir yatırımcı ya da bir "iş meleği", şirketteki bir miktar hisse için açılış ya da büyüme sermayesi sağlar. Melek kelimesi karışılıksız ve katıksız bir iyiliği temsil etmez. Yatırımcı kar amacı gütmeden ve kendini korumadan kaynak yatırmayacağı halde melek denmesinin sebebi ilk ve başlatıcı olması olabilir.
 
+### Acquisition
+Kelime anlamı `devralma`'dır, startup dünyasında ise satın alma anlamına gelir. Bir satın alma, bir şirketin diğer şirketin kontrolünü kazanmak için hisselerinin çoğunu (%50'den fazlası) veya tamamını satın almasıdır.
+
 
 ## B
 
@@ -69,6 +74,9 @@ Türkçe'ye `negatif nakit akışı` olarak çevirebiliriz. `Burn rate`, bir şi
 
 ### Cash burn rate
 [Burn rate](#burn-rate)
+
+### Competitive Intelligence
+Rekabetci istihbarat demektir. Rekabetçi istihbarat, bir şirket tarafından rakip işletmeler ve pazarlar hakkında toplanan bilgileri ifade eder ve daha sonra bu bilgiler etkili stratejiler oluşturmak için analiz edilebilir.
 
 ### Crowdfunding
 Kitle fonlaması olarak Türkçe'de yaygınlaşmıştır. `Crowdfunding`, yeni bir iş girişimini finanse etmek için çok sayıda kişiden az miktarda sermaye kullanımıdır. `Crowdfunding`, yatırımcı havuzunu geleneksel yatırımcı zinciri, akrabalar ve girişim yatırımcıları çemberinin ötesine genişleterek girişimciliği artırma potansiyeli ile, yatırımcıları ve girişimcileri bir araya getirmek için kurulan sosyal medya ve kitlesel fonlama web sitelerinin kolay erişilebilirliğini kullanır.

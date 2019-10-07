@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**İçindekiler**
+
+- [Katkıda bulunmak için ne yapabilirim?](#katk%C4%B1da-bulunmak-i%C3%A7in-ne-yapabilirim)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Katkıda bulunmak için ne yapabilirim?
 
 Eğer,
