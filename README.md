@@ -40,6 +40,7 @@ Startup dünyasında sık kullan kelimeler ve terimler
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Giriş
+Bir şekilde startup dünyasına giriş yaptıysanız (ister girişimci, ister yatırımcı, ister geliştirici), kendine özgü bazı terimlerin sıkça kullanıldığına şahit olmuşsunuzdur. Bunların bazılarının kabul edilmiş çevirileri de yoktur. Bu listede olabildiğince çevirilerini de kullanarak yaygın terimleri tanımları ile birlikte derlemeye çalıştım.
 
 # Sözlük
 
