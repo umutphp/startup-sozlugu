@@ -42,6 +42,8 @@ Startup dünyasında sık kullan kelimeler ve terimler
     - [MVP (Minimum viable product)](#mvp-minimum-viable-product)
   - [P](#p)
     - [Pitch deck](#pitch-deck)
+    - [Proof of Concept (PoC)](#proof-of-concept-poc)
+    - [Prototype](#prototype)
   - [R](#r)
     - [Return on Investment (ROI)](#return-on-investment-roi)
   - [S](#s)
@@ -163,6 +165,12 @@ Türkçe'de genellikle MVP kısaltması kullanılır. Yeni bir ürünün [erken 
 
 ### Pitch deck
 Birebir Türkçe bir eşleniği yoktur (umarım şimdilik). `pitch deck`, yatırımcılara genel bir bakış açısı sağlamak için, ürününüzü sergileyen, iş modelinizi paylaşan, para kazanma stratejinize gösteren ve ekibinizi tanıtan kısa bir sunumdur. Ünlü bazı şirketlerin örneklerini https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/ adresinden bulabilirsiniz.
+
+### Proof of Concept (PoC)
+Birebir çeviri `kavram kanıtlama` olarak yapılabilir ama yaygın olarak `PoC` kısaltması kullanılıyor. Bir fikir, ürün ya da hizmetin potansiyel bir pazara sahip olduğunu ve bir soruna çözüm getirdiğini üretmeden önce gösterebilmektir. [Prototip](#prototype) ile karıştırmamak gerekir. 
+
+### Prototype
+`Prototip` olarak Türkçe'ye çevrilmiştir. `İlk örnek` de diyebiliriz. Bir fikri ve ürünü test etmek için oluşturulmuş erken bir örnek, model veya sürümdür. 
 
 
 ## R
