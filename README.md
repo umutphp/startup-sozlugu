@@ -15,11 +15,13 @@ Startup dünyasında sık kullan kelimeler ve terimler
     - [Acquisition](#acquisition)
   - [B](#b)
     - [Boostrapping](#boostrapping)
-    - [Brand Equity](#brand-equity)
+    - [Brand equity](#brand-equity)
+    - [Breakeven point (BEP)](#breakeven-point-bep)
     - [Bridge financing](#bridge-financing)
     - [Burn rate](#burn-rate)
   - [C](#c)
     - [Cash burn rate](#cash-burn-rate)
+    - [Churn Rate](#churn-rate)
     - [Competitive Intelligence](#competitive-intelligence)
     - [Crowdfunding](#crowdfunding)
   - [E](#e)
@@ -27,6 +29,7 @@ Startup dünyasında sık kullan kelimeler ve terimler
     - [Elevator Pitch](#elevator-pitch)
   - [F](#f)
     - [Fintech](#fintech)
+    - [Freemium](#freemium)
   - [I](#i)
     - [Incubator](#incubator)
     - [Initial Public Offering (IPO)](#initial-public-offering-ipo)
@@ -39,6 +42,8 @@ Startup dünyasında sık kullan kelimeler ve terimler
     - [MVP (Minimum viable product)](#mvp-minimum-viable-product)
   - [P](#p)
     - [Pitch deck](#pitch-deck)
+  - [R](#r)
+    - [Return on Investment (ROI)](#return-on-investment-roi)
   - [S](#s)
     - [Seed funding](#seed-funding)
     - [Startup](#startup)
@@ -78,8 +83,11 @@ Kelime anlamı `devralma`'dır, startup dünyasında ise satın alma anlamına g
 ### Boostrapping
 `Özyükleme` ya da `özyatırım` olarak çevrilebilir. `Bootstrapping`, kişisel tasarruf ve ya (şanslıysanız) ilk satışlardan elde edilen paradan başka bir şey olmadan sıfırdan bir girişim kurmaya denir. Ayrıca bir isim olarak da kullanılır: boostrap, girişimci tarafından çok az para ile veya dışardan hiç bir yatırım ve destek olmadan başlatılan bir girişimdir.
 
-### Brand Equity
+### Brand equity
 Türkçe'ye `marka değeri` olarak çevirebiliriz. Marka değeri, bir şirketin eşdeğer bir rakiple karşılaştırıldığında bir üründen (ayırt edilebilir bir isme sahip) ürettiği değer anlamına gelir.
+
+### Breakeven point (BEP)
+`başabaş noktası` olarak çevirebiliriz. Gelir ve giderin eşitlendiği kara geçişin başladığı noktadır. Bu proje başında hesaplanarak yatırımcıya bir plan içinde sunulur. İnandırıcı olması ve erken ulaşılabilir olması yatırımcıların aradığı kriterlerdir.  
 
 ### Bridge financing
 `geçiş yatırımı` ve ya `köprü yatırımı` olarak çevirilebilir. `Bridge financing`, yatırımcıların girişimin bir sonraki fon turuna ulaşmasına yardımcı olmak amacıyla, paralarını geri alabilmeleri şartıyla, kısa vadeli kredi şeklinde yatırım yapmalarıdır. Temel olarak, bir başlangıç şirketini ayakta tutmak için yatırımlar arasına `köprü` kurmak için kullanılır.
@@ -92,6 +100,9 @@ Türkçe'ye `negatif nakit akışı` olarak çevirebiliriz. `Burn rate`, bir şi
 
 ### Cash burn rate
 [Burn rate](#burn-rate)
+
+### Churn Rate
+`Kayıp oranı` diye çevirebiliriz. Bir ürünün ya da hizmetin belirli bir zaman aralığında kaybedilen müşteri sayısının, toplam müşteri sayısına oranıdır. Kayıp oranının düşük olması sadakating yüksek olması anlamına geldiği için, yatırımcılar tarafından aranan bir özelliktir.
 
 ### Competitive Intelligence
 Rekabetci istihbarat demektir. Rekabetçi istihbarat, bir şirket tarafından rakip işletmeler ve pazarlar hakkında toplanan bilgileri ifade eder ve daha sonra bu bilgiler etkili stratejiler oluşturmak için analiz edilebilir.
@@ -112,6 +123,10 @@ Birebir çevirisi `Asansör Konuşması` olabilir. Bir girişimcinin asansör yo
 
 ### Fintech
 `Finansal teknoloji` olarak çevirebiliriz ve kısaltma olarak da `fintek` kullanabiliriz. Fintek, finansal hizmetlerin sunumunu ve kullanımını iyileştirmeyi ve otomatikleştirmeyi amaçlayan yeni teknolojiyi tanımlamak için kullanılır.
+
+### Freemium
+"free" ve "premium" kelimelerinin bir birleşimi olan freemium terimi, müşterilere tamamlayıcı ve ekstra hizmetleri ücretli sunmayı içeren bir tür iş modelidir. Bir şirket, müşterilere denemesi için ücretsiz basit ve temel hizmetler sağlar; daha gelişmiş hizmetleri veya ek özellikleri de ücretli olarak sunar. Bir çeşit, "müşterinin ayağı alışsın" bakış açısıdır.
+
 
 ## I
 
@@ -148,6 +163,12 @@ Türkçe'de genellikle MVP kısaltması kullanılır. Yeni bir ürünün [erken 
 
 ### Pitch deck
 Birebir Türkçe bir eşleniği yoktur (umarım şimdilik). `pitch deck`, yatırımcılara genel bir bakış açısı sağlamak için, ürününüzü sergileyen, iş modelinizi paylaşan, para kazanma stratejinize gösteren ve ekibinizi tanıtan kısa bir sunumdur. Ünlü bazı şirketlerin örneklerini https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/ adresinden bulabilirsiniz.
+
+
+## R
+
+### Return on Investment (ROI)
+Doğrudan çeviri yaparak `yatırım getirisi` ya da `yatırım geri dönüşü` diyebiliriz. ROI, bir yatırımın verimliliğini değerlendirmek veya farklı yatırımların verimliliğini karşılaştırmak için kullanılan bir performans ölçütüdür. ROI, yatırımın maliyetine orantılı olarak belirli bir yatırımın getirisini doğrudan ölçmeye çalışır.
 
 
 ## S
