@@ -45,6 +45,7 @@ Startup dünyasında sık kullan kelimeler ve terimler
     - [Proof of Concept (PoC)](#proof-of-concept-poc)
     - [Prototype](#prototype)
   - [R](#r)
+    - [Retention bonus](#retention-bonus)
     - [Return on Investment (ROI)](#return-on-investment-roi)
   - [S](#s)
     - [Seed funding](#seed-funding)
@@ -174,6 +175,9 @@ Birebir çeviri `kavram kanıtlama` olarak yapılabilir ama yaygın olarak `PoC`
 
 
 ## R
+
+### Retention bonus
+Şimdilik Türkçe'de oturmuş bir çevirisi yoktur. Elde tutma bonusu diyebiliriz. Kilit bir çalışana düzenli maaşının dışında, bir birleşme veya devralma gibi önemli bir iş döngüsü sırasında veya önemli bir üretim döneminde, işte devam etmeye teşvik edici olarak sunulan, hedefli bir ödeme veya ödüldür. Çalışanın pozisyonunu veya şirketi bırakmaması için tasarlanan bu ödeme, genellikle bir kerelik bir ödemedir.
 
 ### Return on Investment (ROI)
 Doğrudan çeviri yaparak `yatırım getirisi` ya da `yatırım geri dönüşü` diyebiliriz. ROI, bir yatırımın verimliliğini değerlendirmek veya farklı yatırımların verimliliğini karşılaştırmak için kullanılan bir performans ölçütüdür. ROI, yatırımın maliyetine orantılı olarak belirli bir yatırımın getirisini doğrudan ölçmeye çalışır.
