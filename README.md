@@ -9,6 +9,7 @@ Startup dünyasında sık kullan kelimeler ve terimler
 - [Sözlük](#s%C3%B6zl%C3%BCk)
   - [0-9](#0-9)
     - [3F (Friends, Fools and Family)](#3f-friends-fools-and-family)
+    - [80-20 Rule](#80-20-rule)
   - [A](#a)
     - [Accelerator](#accelerator)
     - [Angel investment](#angel-investment)
@@ -68,6 +69,10 @@ Bir şekilde startup dünyasına giriş yaptıysanız (ister girişimci, ister y
 
 ### 3F (Friends, Fools and Family)
 Türkçe'ye Türkçe’de `3A` (Arkadaşlar, Aptallar ve Aile) olarak çevirlebilir. Bu kısaltma taze girişimcilerin yolun başındayken kolayca destek alabilecekleri kaynakları açıklayan eğlenceli bir terimdir. `Aptal` kelimesi bire bir tercümeden dolayı seçilmiştir. Aslında kolay ikna edilebilir kişiler için kullanılır.
+
+### 80-20 Rule
+Asıl adı [Pareto Prensibi](https://github.com/umutphp/hacker-laws-tr#pareto-prensibi-8020-kural%C4%B1) olsa da yaygın olarak `80-20 kuralı` diye bilinir. Bu kural der ki, çıktıların önemli bir çoğunluğu girdilerin çok azı tarafından oluşturulur. Örneğin, yapılan işin %20'si gelirin %80'ini oluşturur.
+
 
 ## A
 
