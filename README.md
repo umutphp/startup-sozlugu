@@ -115,6 +115,9 @@ Türkçe'ye `negatif nakit akışı` olarak çevirebiliriz. `Burn rate`, bir şi
 ### Competitive Intelligence
 Rekabetci istihbarat demektir. Rekabetçi istihbarat, bir şirket tarafından rakip işletmeler ve pazarlar hakkında toplanan bilgileri ifade eder ve daha sonra bu bilgiler etkili stratejiler oluşturmak için analiz edilebilir.
 
+### Co-working space
+`Ortak çalışma alanı` olarak kabul görmüştür. Çalışma alanı ve diğer hizmetleri belli üyelik paketleri sunarak kişilere ve şirketlere kiralayan organizasyonlardır. Bu hizmetlerin yanı sıra üyelere ağ kurma etkinlikleri gibi hizmetler de sunmaktadır.
+
 ### Crowdfunding
 Kitle fonlaması olarak Türkçe'de yaygınlaşmıştır. `Crowdfunding`, yeni bir iş girişimini finanse etmek için çok sayıda kişiden az miktarda sermaye kullanımıdır. `Crowdfunding`, yatırımcı havuzunu geleneksel yatırımcı zinciri, akrabalar ve girişim yatırımcıları çemberinin ötesine genişleterek girişimciliği artırma potansiyeli ile, yatırımcıları ve girişimcileri bir araya getirmek için kurulan sosyal medya ve kitlesel fonlama web sitelerinin kolay erişilebilirliğini kullanır.
 
@@ -155,6 +158,9 @@ Yatırım turu demektir. Yatırım turu, yatırım tipinin daha spesifik bir şe
 
 ### Launch
 Türkçe'de lansman olarak kullanılır. Bir girişim fikrinin hayata geçmesi, veya bir ürünün  aktif olarak pazara sunulmasını demektir.
+
+### Lean startup
+`Yalın girişim` diye çevirebiliriz. Yalın girişim yöntemi, devrimsel ürünler üretmek yerine tüketicilerin isteklerini gösterdiği ürünleri geliştirmeyi savunur. Yalın girişim yöntemleri ağırlıklı olarak müşteri [kayıp oranı](#churn-rate), ömür boyu müşteri değeri ve ürün popülerliği gibi müşteri ile ilgili bilgilere odaklanır.
 
 ### Letter of intent
 Niyet belgesi olarak çevirebiliriz. Bir yatırımcı ile startup arasındaki belge, finansman için bağlayıcı olmayan temel şart ve koşulları içerir. İlgili taraflar arasında bir anlaşmaya varıldığında, bu belgeye dayanan bağlayıcı bir anlaşma hazırlanır.
