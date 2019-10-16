@@ -9,6 +9,7 @@ Startup dünyasında sık kullan kelimeler ve terimler
 - [Sözlük](#s%C3%B6zl%C3%BCk)
   - [0-9](#0-9)
     - [3F (Friends, Fools and Family)](#3f-friends-fools-and-family)
+    - [80-20 Rule](#80-20-rule)
   - [A](#a)
     - [Accelerator](#accelerator)
     - [Angel investment](#angel-investment)
@@ -71,6 +72,10 @@ Bir şekilde startup dünyasına giriş yaptıysanız (ister girişimci, ister y
 ### 3F (Friends, Fools and Family)
 Türkçe'ye Türkçe’de `3A` (Arkadaşlar, Aptallar ve Aile) olarak çevirlebilir. Bu kısaltma taze girişimcilerin yolun başındayken kolayca destek alabilecekleri kaynakları açıklayan eğlenceli bir terimdir. `Aptal` kelimesi bire bir tercümeden dolayı seçilmiştir. Aslında kolay ikna edilebilir kişiler için kullanılır.
 
+### 80-20 Rule
+Asıl adı [Pareto Prensibi](https://github.com/umutphp/hacker-laws-tr#pareto-prensibi-8020-kural%C4%B1) olsa da yaygın olarak `80-20 kuralı` diye bilinir. Bu kural der ki, çıktıların önemli bir çoğunluğu girdilerin çok azı tarafından oluşturulur. Örneğin, yapılan işin %20'si gelirin %80'ini oluşturur.
+
+
 ## A
 
 ### Accelerator
@@ -111,6 +116,9 @@ Türkçe'ye `negatif nakit akışı` olarak çevirebiliriz. `Burn rate`, bir şi
 
 ### Competitive Intelligence
 Rekabetci istihbarat demektir. Rekabetçi istihbarat, bir şirket tarafından rakip işletmeler ve pazarlar hakkında toplanan bilgileri ifade eder ve daha sonra bu bilgiler etkili stratejiler oluşturmak için analiz edilebilir.
+
+### Co-working space
+`Ortak çalışma alanı` olarak kabul görmüştür. Çalışma alanı ve diğer hizmetleri belli üyelik paketleri sunarak kişilere ve şirketlere kiralayan organizasyonlardır. Bu hizmetlerin yanı sıra üyelere ağ kurma etkinlikleri gibi hizmetler de sunmaktadır.
 
 ### Crowdfunding
 Kitle fonlaması olarak Türkçe'de yaygınlaşmıştır. `Crowdfunding`, yeni bir iş girişimini finanse etmek için çok sayıda kişiden az miktarda sermaye kullanımıdır. `Crowdfunding`, yatırımcı havuzunu geleneksel yatırımcı zinciri, akrabalar ve girişim yatırımcıları çemberinin ötesine genişleterek girişimciliği artırma potansiyeli ile, yatırımcıları ve girişimcileri bir araya getirmek için kurulan sosyal medya ve kitlesel fonlama web sitelerinin kolay erişilebilirliğini kullanır.
@@ -159,6 +167,9 @@ Yatırım turu demektir. Yatırım turu, yatırım tipinin daha spesifik bir şe
 
 ### Launch
 Türkçe'de lansman olarak kullanılır. Bir girişim fikrinin hayata geçmesi, veya bir ürünün  aktif olarak pazara sunulmasını demektir.
+
+### Lean startup
+`Yalın girişim` diye çevirebiliriz. Yalın girişim yöntemi, devrimsel ürünler üretmek yerine tüketicilerin isteklerini gösterdiği ürünleri geliştirmeyi savunur. Yalın girişim yöntemleri ağırlıklı olarak müşteri [kayıp oranı](#churn-rate), ömür boyu müşteri değeri ve ürün popülerliği gibi müşteri ile ilgili bilgilere odaklanır.
 
 ### Letter of intent
 Niyet belgesi olarak çevirebiliriz. Bir yatırımcı ile startup arasındaki belge, finansman için bağlayıcı olmayan temel şart ve koşulları içerir. İlgili taraflar arasında bir anlaşmaya varıldığında, bu belgeye dayanan bağlayıcı bir anlaşma hazırlanır.
