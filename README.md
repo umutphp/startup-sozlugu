@@ -30,6 +30,8 @@ Startup dünyasında sık kullan kelimeler ve terimler
   - [F](#f)
     - [Fintech](#fintech)
     - [Freemium](#freemium)
+  - [H](#h)
+    - [Hedge fund](#hedge-fund)
   - [I](#i)
     - [Incubator](#incubator)
     - [Initial Public Offering (IPO)](#initial-public-offering-ipo)
@@ -122,6 +124,7 @@ Kitle fonlaması olarak Türkçe'de yaygınlaşmıştır. `Crowdfunding`, yeni b
 ### Elevator Pitch
 Birebir çevirisi `Asansör Konuşması` olabilir. Bir girişimcinin asansör yolculuğu kadar kısa bir süre içinde (30-60 saniye) kendini tanıtma, fikirlerini ifade etme ve karşısındakini ikna etmesini sağlayacak kısa sunumdur.
 
+
 ## F
 
 ### Fintech
@@ -130,6 +133,12 @@ Birebir çevirisi `Asansör Konuşması` olabilir. Bir girişimcinin asansör yo
 ### Freemium
 "free" ve "premium" kelimelerinin bir birleşimi olan freemium terimi, müşterilere tamamlayıcı ve ekstra hizmetleri ücretli sunmayı içeren bir tür iş modelidir. Bir şirket, müşterilere denemesi için ücretsiz basit ve temel hizmetler sağlar; daha gelişmiş hizmetleri veya ek özellikleri de ücretli olarak sunar. Bir çeşit, "müşterinin ayağı alışsın" bakış açısıdır.
 
+
+## H
+
+### Hedge fund
+`Serbest fon` olarak yaygınlaşmıştır. Belirli bir seviyenin üstündeki yatırımcılardan oluşan, diğer yatırım fonlarına göre yasal düzenlemelerde daha esnek olan, daha geniş bir yelpazede daha serbest işlem yapabilme hakkı olan bir fon türüdür. Yüksek riskli yatırımlar yapabildikleri için ve yasal avantajları oldukları için tercih edilirler. İlk serbest fon 1949'da kurulmuştur. Yapıları ve avantajları gereği startup fikirlerine yatırım yapmaya yakın oldukları düşünülebilir.
+ 
 
 ## I
 
