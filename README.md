@@ -1,6 +1,8 @@
 # Startup Sözlüğü
 Startup dünyasında sık kullan kelimeler ve terimler
 
+[![WOSPM Badge](https://app.wospm.info/badge/d4a0jAeYL9)](https://app.wospm.info/project/d4a0jAeYL9)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **İçindekiler**
