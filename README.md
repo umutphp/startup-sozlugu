@@ -6,7 +6,7 @@ Startup dünyasında sık kullan kelimeler ve terimler
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**İçindekiler**
+## İçindekiler
 
 - [Giriş](#giri%C5%9F)
 - [Sözlük](#s%C3%B6zl%C3%BCk)
@@ -92,6 +92,7 @@ Türkçe'ye `hızlandırıcı` diye çevirebiliriz. Küçük işletmelerin ve gi
 Türkçe'ye [yanlış anlaşılmalara](https://youtu.be/7PMvex5PZF0?t=653) sebep olsa da `melek yatırım` olarak çevirebiliriz. Bu tür bir yatırım, genellikle başlangıçta girişim ilk aşamalarında olduğunda gerçekleşir. Bir yatırımcı ya da bir "iş meleği", şirketteki bir miktar hisse için açılış ya da büyüme sermayesi sağlar. Melek kelimesi karışılıksız ve katıksız bir iyiliği temsil etmez. Yatırımcı kar amacı gütmeden ve kendini korumadan kaynak yatırmayacağı halde melek denmesinin sebebi ilk ve başlatıcı olması olabilir.
 
 #### Acquisition
+
 Kelime anlamı `devralma`'dır, startup dünyasında ise satın alma anlamına gelir. Bir satın alma, bir şirketin diğer şirketin kontrolünü kazanmak için hisselerinin çoğunu (%50'den fazlası) veya tamamını satın almasıdır.
 
 ### B
@@ -105,6 +106,7 @@ Kelime anlamı `devralma`'dır, startup dünyasında ise satın alma anlamına g
 Türkçe'ye `marka değeri` olarak çevirebiliriz. Marka değeri, bir şirketin eşdeğer bir rakiple karşılaştırıldığında bir üründen (ayırt edilebilir bir isme sahip) ürettiği değer anlamına gelir.
 
 #### Breakeven point (BEP)
+
 `başabaş noktası` olarak çevirebiliriz. Gelir ve giderin eşitlendiği kara geçişin başladığı noktadır. Bu proje başında hesaplanarak yatırımcıya bir plan içinde sunulur. İnandırıcı olması ve erken ulaşılabilir olması yatırımcıların aradığı kriterlerdir.  
 
 #### Bridge financing
@@ -160,6 +162,7 @@ Birebir çevirisi `Asansör Konuşması` olabilir. Bir girişimcinin asansör yo
 ### H
 
 ### Hedge fund
+
 Çevirisi `serbest fon` olarak yaygınlaşmıştır. Belirli bir seviyenin üstündeki yatırımcılardan oluşan, diğer yatırım fonlarına göre yasal düzenlemelerde daha esnek olan, daha geniş bir yelpazede daha serbest işlem yapabilme hakkı olan bir fon türüdür. Yüksek riskli yatırımlar yapabildikleri için ve yasal avantajları oldukları için tercih edilirler. İlk serbest fon 1949'da kurulmuştur. Yapıları ve avantajları gereği startup fikirlerine yatırım yapmaya yakın oldukları düşünülebilir.
  
 ### I
@@ -252,4 +255,5 @@ Türkçe çevirisi değerleme olarak yapılabilir. Değerleme, bir varlığın v
 Aslında `risk sermayesi` olarak bilinir ama startup rüzgarı ile birlikte `girişim sermayesi` olarak da anılmaya başlandı. Kelime anlamı, firmaların özkaynak karşılığında yüksek büyüme potansiyeli olan küçük, yüksek riskli, satartuplara sağladığı finansmandır. VC (Venture capitalist, risk yatırımcısı) aynı zamanda risk sermayesi yatırım şirketlerinde çalışan yatırımcılara da denir.
 
 ## Katkıda bulunmak için ne yapabilirim?
+
 [CONTRIBUTING.md](CONTRIBUTING.md) dosyasına bakınız. Davranış kuralları için [CODE_OF_CONDUCT](CODE_OF_CONDUCT) dosyasına bakabilirsiniz.
