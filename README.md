@@ -164,7 +164,7 @@ Birebir çevirisi `Asansör Konuşması` olabilir. Bir girişimcinin asansör yo
 ### Hedge fund
 
 Çevirisi `serbest fon` olarak yaygınlaşmıştır. Belirli bir seviyenin üstündeki yatırımcılardan oluşan, diğer yatırım fonlarına göre yasal düzenlemelerde daha esnek olan, daha geniş bir yelpazede daha serbest işlem yapabilme hakkı olan bir fon türüdür. Yüksek riskli yatırımlar yapabildikleri için ve yasal avantajları oldukları için tercih edilirler. İlk serbest fon 1949'da kurulmuştur. Yapıları ve avantajları gereği startup fikirlerine yatırım yapmaya yakın oldukları düşünülebilir.
- 
+
 ### I
 
 #### Incubator
@@ -208,15 +208,15 @@ Türkçe'de genellikle MVP kısaltması kullanılır. Yeni bir ürünün [erken 
 
 #### Pitch deck
 
-Birebir Türkçe bir eşleniği yoktur (umarım şimdilik). `pitch deck`, yatırımcılara genel bir bakış açısı sağlamak için, ürününüzü sergileyen, iş modelinizi paylaşan, para kazanma stratejinize gösteren ve ekibinizi tanıtan kısa bir sunumdur. Ünlü bazı şirketlerin örneklerini https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/ adresinden bulabilirsiniz.
+Birebir Türkçe bir eşleniği yoktur (umarım şimdilik). `pitch deck`, yatırımcılara genel bir bakış açısı sağlamak için, ürününüzü sergileyen, iş modelinizi paylaşan, para kazanma stratejinize gösteren ve ekibinizi tanıtan kısa bir sunumdur. Ünlü bazı şirketlerin örneklerini [https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/) adresinden bulabilirsiniz.
 
 #### Proof of Concept (PoC)
 
-Birebir çeviri `kavram kanıtlama` olarak yapılabilir ama yaygın olarak `PoC` kısaltması kullanılıyor. Bir fikir, ürün ya da hizmetin potansiyel bir pazara sahip olduğunu ve bir soruna çözüm getirdiğini üretmeden önce gösterebilmektir. [Prototip](#prototype) ile karıştırmamak gerekir. 
+Birebir çeviri `kavram kanıtlama` olarak yapılabilir ama yaygın olarak `PoC` kısaltması kullanılıyor. Bir fikir, ürün ya da hizmetin potansiyel bir pazara sahip olduğunu ve bir soruna çözüm getirdiğini üretmeden önce gösterebilmektir. [Prototip](#prototype) ile karıştırmamak gerekir.
 
 #### Prototype
 
-`Prototip` olarak Türkçe'ye çevrilmiştir. `İlk örnek` de diyebiliriz. Bir fikri ve ürünü test etmek için oluşturulmuş erken bir örnek, model veya sürümdür. 
+`Prototip` olarak Türkçe'ye çevrilmiştir. `İlk örnek` de diyebiliriz. Bir fikri ve ürünü test etmek için oluşturulmuş erken bir örnek, model veya sürümdür.
 
 ### R
 
@@ -242,13 +242,13 @@ Birebir çeviri olarak tohum fonu denebilir. Aile üyeleri, arkadaşlar, bankala
 
 #### Unicorn
 
-`Unicorn` kelimesinin Türkçe karşılığı tek boynuzlu attır. Yaygın olarak çevirisi değil de kendisi kullanılır. 1 milyar doların üzerinde değere ulaşmış startuplara verilen addır. Bir başarı göstergesidir. Güncel bir listeye https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies adresinden erişilebilir.
+`Unicorn` kelimesinin Türkçe karşılığı tek boynuzlu attır. Yaygın olarak çevirisi değil de kendisi kullanılır. 1 milyar doların üzerinde değere ulaşmış startuplara verilen addır. Bir başarı göstergesidir. Güncel bir listeye [https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies](https://en.wikipedia.org/wiki/List_of_unicorn_startup_companies) adresinden erişilebilir.
 
 ### V
 
 #### Valuation
 
-Türkçe çevirisi değerleme olarak yapılabilir. Değerleme, bir varlığın veya bir şirketin mevcut (veya öngörülen) değerini belirlemek için kullanılan analitik süreçtir. Değerleme yapmak için kullanılan birçok teknik vardır. Bir şirkete değer veren bir analist, işletme yönetimine, sermaye yapısının oluşumuna, gelecekteki kazanç beklentisine ve varlıklarının piyasa değerine bakar. Startup değerlemesi yapılırken bu listeye çok daha farklı (daha soyut) maddeler de eklenebilir. 
+Türkçe çevirisi değerleme olarak yapılabilir. Değerleme, bir varlığın veya bir şirketin mevcut (veya öngörülen) değerini belirlemek için kullanılan analitik süreçtir. Değerleme yapmak için kullanılan birçok teknik vardır. Bir şirkete değer veren bir analist, işletme yönetimine, sermaye yapısının oluşumuna, gelecekteki kazanç beklentisine ve varlıklarının piyasa değerine bakar. Startup değerlemesi yapılırken bu listeye çok daha farklı (daha soyut) maddeler de eklenebilir.
 
 #### VC (Venture capital/Venture capitalist)
 
