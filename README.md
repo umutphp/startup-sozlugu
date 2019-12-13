@@ -61,7 +61,7 @@ Startup dünyasında sık kullan kelimeler ve terimler
   - [V](#v)
     - [Valuation](#valuation)
     - [VC (Venture capital/Venture capitalist)](#vc-venture-capitalventure-capitalist)
-- [Katkıda bulunmak için ne yapabilirim?](#katk%C4%B1da-bulunmak-i%C3%A7in-ne-yapabilirim)
+- [Katkıda bulunma](#katk%C4%B1da-bulunma)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -254,6 +254,6 @@ Türkçe çevirisi değerleme olarak yapılabilir. Değerleme, bir varlığın v
 
 Aslında `risk sermayesi` olarak bilinir ama startup rüzgarı ile birlikte `girişim sermayesi` olarak da anılmaya başlandı. Kelime anlamı, firmaların özkaynak karşılığında yüksek büyüme potansiyeli olan küçük, yüksek riskli, satartuplara sağladığı finansmandır. VC (Venture capitalist, risk yatırımcısı) aynı zamanda risk sermayesi yatırım şirketlerinde çalışan yatırımcılara da denir.
 
-## Katkıda bulunmak için ne yapabilirim?
+## Katkıda bulunma
 
 [CONTRIBUTING.md](CONTRIBUTING.md) dosyasına bakınız. Davranış kuralları için [CODE_OF_CONDUCT](CODE_OF_CONDUCT) dosyasına bakabilirsiniz.
