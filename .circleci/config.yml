@@ -1,0 +1,18 @@
+# PHP CircleCI 2.0 configuration file
+#
+version: 2
+jobs:
+  doc-lint:
+    docker:
+      - image: circleci/node:9.8
+    steps:
+      - checkout
+      - run:
+          name: Project-Markdown-Lint
+          no_output_timeout: 20m
+          command: sudo npm install -g markdownlint-cli && markdownlint *.md CODE_OF_CONDUCT
+workflows:
+  version: 2
+  linter:
+    jobs:
+      - doc-lint
