@@ -230,4 +230,4 @@ Aslında `risk sermayesi` olarak bilinir ama startup rüzgarı ile birlikte `gir
 
 
 # Katkıda bulunmak için ne yapabilirim?
-[CONTRIBUTING.md](CONTRIBUTING.md) dosyasına bakınız.
+[CONTRIBUTING.md](CONTRIBUTING.md) dosyasına bakınız. Davranış kuralları için [CODE_OF_CONDUCT](CODE_OF_CONDUCT) dosyasına bakabilirsiniz.
