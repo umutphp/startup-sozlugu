@@ -10,7 +10,7 @@ jobs:
       - run:
           name: Project-Markdown-Lint
           no_output_timeout: 20m
-          command: sudo npm install -g markdownlint-cli && markdownlint *.md CODE_OF_CONDUCT
+          command: sudo npm install -g markdownlint-cli && markdownlint README.md
 workflows:
   version: 2
   linter:
