@@ -2,7 +2,7 @@
 
 Startup dünyasında sık kullan kelimeler ve terimler
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CONTRIBUTING.md) [![WOSPM Badge](https://app.wospm.info/badge/d4a0jAeYL9)](https://app.wospm.info/project/d4a0jAeYL9) [![CircleCI](https://circleci.com/gh/umutphp/startup-sozlugu.svg?style=svg)](https://circleci.com/gh/umutphp/startup-sozlugu)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CONTRIBUTING.md) ![WOSPM Checker](https://github.com/umutphp/startup-sozlugu/workflows/WOSPM%20Checker/badge.svg) [![CircleCI](https://circleci.com/gh/umutphp/startup-sozlugu.svg?style=svg)](https://circleci.com/gh/umutphp/startup-sozlugu)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
