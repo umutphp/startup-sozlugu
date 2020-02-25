@@ -27,24 +27,29 @@ Startup dünyasında sık kullan kelimeler ve terimler
     - [Cash burn rate](#cash-burn-rate)
     - [Churn Rate](#churn-rate)
     - [Competitive Intelligence](#competitive-intelligence)
+    - [Co-working space](#co-working-space)
     - [Crowdfunding](#crowdfunding)
   - [E](#e)
+    - [Early stage](#early-stage)
     - [Exit](#exit)
     - [Elevator Pitch](#elevator-pitch)
   - [F](#f)
     - [Fintech](#fintech)
     - [Freemium](#freemium)
   - [H](#h)
-    - [Hedge fund](#hedge-fund)
+- [## Hedge fund](#-hedge-fund)
   - [I](#i)
     - [Incubator](#incubator)
     - [Initial Public Offering (IPO)](#initial-public-offering-ipo)
     - [IP – Intellectual Property](#ip--intellectual-property)
     - [Investment round](#investment-round)
   - [L](#l)
+    - [Late stage](#late-stage)
     - [Launch](#launch)
+    - [Lean startup](#lean-startup)
     - [Letter of intent](#letter-of-intent)
   - [M](#m)
+    - [Mid-stage](#mid-stage)
     - [MVP (Minimum viable product)](#mvp-minimum-viable-product)
   - [P](#p)
     - [Pitch deck](#pitch-deck)
@@ -55,6 +60,8 @@ Startup dünyasında sık kullan kelimeler ve terimler
     - [Return on Investment (ROI)](#return-on-investment-roi)
   - [S](#s)
     - [Seed funding](#seed-funding)
+    - [Seed stage](#seed-stage)
+    - [Stage](#stage)
     - [Startup](#startup)
   - [U](#u)
     - [Unicorn](#unicorn)
@@ -141,6 +148,10 @@ Kitle fonlaması olarak Türkçe'de yaygınlaşmıştır. `Crowdfunding`, yeni b
 
 ### E
 
+#### Early stage
+
+Erken aşama olarak çevirilebilir. Genellikle şirketin gelişiminde ilerleme olduğuna dair kanıtlar olmasına rağmen, şirketin diğer taraflarında yeterlilik henüz olamamıştır. Örnek olarak, genellikle yönetim ekibi eksiktir. Ürün veya hizmet hala geliştirilmektedir.
+
 #### Exit
 
 `çıkış` ya da `kaçış` diye çevirilebilir. Bir yatırımcının (genellikle bir risk sermayesi sahibi) kazançlarını (veya zararlarını) toparlamak için bir firmadaki hissesini satmasıdır. Genellikle yatırım kararı sırasında planlanan bir harekettir ve girişimin genel planına da dahil edilebilir.
@@ -161,7 +172,7 @@ Birebir çevirisi `Asansör Konuşması` olabilir. Bir girişimcinin asansör yo
 
 ### H
 
-### Hedge fund
+##  ## Hedge fund
 
 Çevirisi `serbest fon` olarak yaygınlaşmıştır. Belirli bir seviyenin üstündeki yatırımcılardan oluşan, diğer yatırım fonlarına göre yasal düzenlemelerde daha esnek olan, daha geniş bir yelpazede daha serbest işlem yapabilme hakkı olan bir fon türüdür. Yüksek riskli yatırımlar yapabildikleri için ve yasal avantajları oldukları için tercih edilirler. İlk serbest fon 1949'da kurulmuştur. Yapıları ve avantajları gereği startup fikirlerine yatırım yapmaya yakın oldukları düşünülebilir.
 
@@ -185,6 +196,10 @@ Yatırım turu demektir. Yatırım turu, yatırım tipinin daha spesifik bir şe
 
 ### L
 
+#### Late stage
+
+Geç aşama olarak çevrilebilir. Bu aşamada şirketler tipik olarak süreklilik arz eden bir üretim sergilemişlerdir ve genellikle güçlü bir piyasa varlığına sahip iyi bilinen bir ürüne sahiptirler. Pozitif nakit akışı yaratma noktasına ulaşmış ve teğet piyasalara genişleme denemelerine başlamıştır.
+
 #### Launch
 
 Türkçe'de lansman olarak kullanılır. Bir girişim fikrinin hayata geçmesi, veya bir ürünün  aktif olarak pazara sunulmasını demektir.
@@ -198,6 +213,10 @@ Türkçe'de lansman olarak kullanılır. Bir girişim fikrinin hayata geçmesi, 
 Niyet belgesi olarak çevirebiliriz. Bir yatırımcı ile startup arasındaki belge, finansman için bağlayıcı olmayan temel şart ve koşulları içerir. İlgili taraflar arasında bir anlaşmaya varıldığında, bu belgeye dayanan bağlayıcı bir anlaşma hazırlanır.
 
 ### M
+
+#### Mid-stage
+
+Orta aşama olarak çevrilebilir. Girişimin ne yaptığını anladıktan sonraki aşamasıdır. Artık ürün için para yatırma ya da yatırım bulma aşamasıdır.
 
 #### MVP (Minimum viable product)
 
@@ -233,6 +252,14 @@ Doğrudan çeviri yaparak `yatırım getirisi` ya da `yatırım geri dönüşü`
 #### Seed funding
 
 Birebir çeviri olarak tohum fonu denebilir. Aile üyeleri, arkadaşlar, bankalar veya bir yatırımcı tarafından yapılan küçük, erken aşamadaki ilk yatırım turuna genel olarak `seed funding` denir.
+
+#### Seed stage
+
+Tohum aşaması olarak çevrilebilir. Bu aşama, bir girişimin piyasaya çıkmasından hemen sonraki ve [PoC](#proof-of-concept-poc) üzerinde çalıştığı dönemini ifade eder. Bu aşamada, girişimciler sonraki aşamalara geçmeden önce sunduklarını ürünü geliştirebilmeleri için ilk satışları almak ve erken benimseyenlerden geri bildirim almak istemektedir.
+
+#### Stage
+
+Bir girişim şirketinin içinde bulunduğu gelişim aşamalarına denir. Şirketlerin her aşamasını tanımlayan açık bir kural yoktur, ancak basitçe [tohum aşaması](#seed-stage) ([seed stage](#seed-stage)), [erken aşama](#early-stage) ([early stage](#early-stage)), orta aşama ([mid-stage](#mid-stage)) ve [geç aşama](#late-stage) ([late stage](#late-stage)) olarak kategorize edilebilir. Çoğu [VC](#vc-venture-capitalventure-capitalist) firması şirketlere sadece bir veya iki aşamada yatırım yapar. Bununla birlikte, bazı firmalar farklı aşamalardaki şirketlere yönelik birden fazla fon yönetmektedir.
 
 #### Startup
 
