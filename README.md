@@ -1,11 +1,10 @@
 # Startup Sözlüğü
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Startup dünyasında sık kullan kelimeler ve terimler
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CONTRIBUTING.md) ![WOSPM Checker](https://github.com/umutphp/startup-sozlugu/workflows/WOSPM%20Checker/badge.svg) [![CircleCI](https://circleci.com/gh/umutphp/startup-sozlugu.svg?style=svg)](https://circleci.com/gh/umutphp/startup-sozlugu)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CONTRIBUTING.md) ![WOSPM Checker](https://github.com/umutphp/startup-sozlugu/workflows/WOSPM%20Checker/badge.svg) [![CircleCI](https://circleci.com/gh/umutphp/startup-sozlugu.svg?style=svg)](https://circleci.com/gh/umutphp/startup-sozlugu)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -72,6 +71,7 @@ Startup dünyasında sık kullan kelimeler ve terimler
     - [Valuation](#valuation)
     - [VC (Venture capital/Venture capitalist)](#vc-venture-capitalventure-capitalist)
 - [Katkıda bulunma](#katk%C4%B1da-bulunma)
+- [Katkıda bulunanlar ✨](#katk%C4%B1da-bulunanlar-)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -288,9 +288,9 @@ Aslında `risk sermayesi` olarak bilinir ama startup rüzgarı ile birlikte `gir
 
 [CONTRIBUTING.md](CONTRIBUTING.md) dosyasına bakınız. Davranış kuralları için [CODE_OF_CONDUCT](CODE_OF_CONDUCT) dosyasına bakabilirsiniz.
 
-## Contributors ✨
+## Katkıda bulunanlar ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Hepsine ayrı ayrı teşekkür ederiz ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -305,4 +305,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+Bu proje [all-contributors](https://github.com/all-contributors/all-contributors) kurallarını uygulamaya çalışıyor. Herhangi bir katkıyı büyük bir coşku ile kabul ederiz!
