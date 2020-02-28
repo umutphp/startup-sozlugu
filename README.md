@@ -37,7 +37,7 @@ Startup dünyasında sık kullan kelimeler ve terimler
     - [Fintech](#fintech)
     - [Freemium](#freemium)
   - [H](#h)
-- [## Hedge fund](#-hedge-fund)
+    - [Hedge fund](#hedge-fund)
   - [I](#i)
     - [Incubator](#incubator)
     - [Initial Public Offering (IPO)](#initial-public-offering-ipo)
@@ -172,7 +172,7 @@ Birebir çevirisi `Asansör Konuşması` olabilir. Bir girişimcinin asansör yo
 
 ### H
 
-##  ## Hedge fund
+#### Hedge fund
 
 Çevirisi `serbest fon` olarak yaygınlaşmıştır. Belirli bir seviyenin üstündeki yatırımcılardan oluşan, diğer yatırım fonlarına göre yasal düzenlemelerde daha esnek olan, daha geniş bir yelpazede daha serbest işlem yapabilme hakkı olan bir fon türüdür. Yüksek riskli yatırımlar yapabildikleri için ve yasal avantajları oldukları için tercih edilirler. İlk serbest fon 1949'da kurulmuştur. Yapıları ve avantajları gereği startup fikirlerine yatırım yapmaya yakın oldukları düşünülebilir.
 
