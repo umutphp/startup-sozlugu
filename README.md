@@ -290,7 +290,7 @@ Aslında `risk sermayesi` olarak bilinir ama startup rüzgarı ile birlikte `gir
 
 ## Katkıda bulunanlar ✨
 
-Hepsine ayrı ayrı teşekkür ederiz ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Hepsine ayrı ayrı teşekkür ederiz :).
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
