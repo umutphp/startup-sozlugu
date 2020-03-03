@@ -305,4 +305,6 @@ Hepsine ayrı ayrı teşekkür ederiz :).
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Bu proje [all-contributors](https://github.com/all-contributors/all-contributors) kurallarını uygulamaya çalışıyor. Herhangi bir katkıyı büyük bir coşku ile kabul ederiz!
+Bu proje [all-contributors](https://github.com/all-contributors/all-contributors) kurallarını uygulamaya çalışıyor.
+
+Herhangi bir katkıyı büyük bir coşku ile kabul ederiz!
