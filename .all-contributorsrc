@@ -13,6 +13,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "maidis",
+      "name": "Anıl Özbek",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/633989?v=4",
+      "profile": "http://anilozbek.blogspot.com/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
