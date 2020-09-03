@@ -1,6 +1,6 @@
 # Startup Sözlüğü
 
-Startup dünyasında sık kullan kelimeler ve terimler
+Startup dünyasında sık kullanılan kelimeler ve terimler
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CONTRIBUTING.md) ![WOSPM Checker](https://github.com/umutphp/startup-sozlugu/workflows/WOSPM%20Checker/badge.svg) [![CircleCI](https://circleci.com/gh/umutphp/startup-sozlugu.svg?style=svg)](https://circleci.com/gh/umutphp/startup-sozlugu)
@@ -85,7 +85,7 @@ Bir şekilde startup dünyasına giriş yaptıysanız (ister girişimci, ister y
 
 #### 3F (Friends, Fools and Family)
 
-Türkçe'ye Türkçe’de `3A` (Arkadaşlar, Aptallar ve Aile) olarak çevirlebilir. Bu kısaltma taze girişimcilerin yolun başındayken kolayca destek alabilecekleri kaynakları açıklayan eğlenceli bir terimdir. `Aptal` kelimesi bire bir tercümeden dolayı seçilmiştir. Aslında kolay ikna edilebilir kişiler için kullanılır.
+Türkçe'ye `3A` (Arkadaşlar, Aptallar ve Aile) olarak çevrilebilir. Bu kısaltma taze girişimcilerin yolun başındayken kolayca destek alabilecekleri kaynakları açıklayan eğlenceli bir terimdir. `Aptal` kelimesi bire bir tercümeden dolayı seçilmiştir. Aslında kolay ikna edilebilir kişiler için kullanılır.
 
 #### 80-20 Rule
 
@@ -99,7 +99,7 @@ Türkçe'ye `hızlandırıcı` diye çevirebiliriz. Küçük işletmelerin ve gi
 
 #### Angel investment
 
-Türkçe'ye [yanlış anlaşılmalara](https://youtu.be/7PMvex5PZF0?t=653) sebep olsa da `melek yatırım` olarak çevirebiliriz. Bu tür bir yatırım, genellikle başlangıçta girişim ilk aşamalarında olduğunda gerçekleşir. Bir yatırımcı ya da bir "iş meleği", şirketteki bir miktar hisse için açılış ya da büyüme sermayesi sağlar. Melek kelimesi karışılıksız ve katıksız bir iyiliği temsil etmez. Yatırımcı kar amacı gütmeden ve kendini korumadan kaynak yatırmayacağı halde melek denmesinin sebebi ilk ve başlatıcı olması olabilir.
+Türkçe'ye [yanlış anlaşılmalara](https://youtu.be/7PMvex5PZF0?t=653) sebep olsa da `melek yatırım` olarak çevirebiliriz. Bu tür bir yatırım, genellikle başlangıçta girişim ilk aşamalarında olduğunda gerçekleşir. Bir yatırımcı ya da bir "iş meleği", şirketteki bir miktar hisse için açılış ya da büyüme sermayesi sağlar. Melek kelimesi karşılıksız ve katıksız bir iyiliği temsil etmez. Yatırımcı kar amacı gütmeden ve kendini korumadan kaynak yatırmayacağı halde melek denmesinin sebebi ilk ve başlatıcı olması olabilir.
 
 #### Acquisition
 
@@ -121,7 +121,7 @@ Türkçe'ye `marka değeri` olarak çevirebiliriz. Marka değeri, bir şirketin 
 
 #### Bridge financing
 
-`geçiş yatırımı` ve ya `köprü yatırımı` olarak çevirilebilir. `Bridge financing`, yatırımcıların girişimin bir sonraki fon turuna ulaşmasına yardımcı olmak amacıyla, paralarını geri alabilmeleri şartıyla, kısa vadeli kredi şeklinde yatırım yapmalarıdır. Temel olarak, bir başlangıç şirketini ayakta tutmak için yatırımlar arasına `köprü` kurmak için kullanılır.
+`geçiş yatırımı` veya `köprü yatırımı` olarak çevrilebilir. `Bridge financing`, yatırımcıların girişimin bir sonraki fon turuna ulaşmasına yardımcı olmak amacıyla, paralarını geri alabilmeleri şartıyla, kısa vadeli kredi şeklinde yatırım yapmalarıdır. Temel olarak, bir başlangıç şirketini ayakta tutmak için yatırımlar arasına `köprü` kurmak için kullanılır.
 
 #### Burn rate
 
@@ -135,7 +135,7 @@ Türkçe'ye `negatif nakit akışı` olarak çevirebiliriz. `Burn rate`, bir şi
 
 #### Churn Rate
 
-`Kayıp oranı` diye çevirebiliriz. Bir ürünün ya da hizmetin belirli bir zaman aralığında kaybedilen müşteri sayısının, toplam müşteri sayısına oranıdır. Kayıp oranının düşük olması sadakating yüksek olması anlamına geldiği için, yatırımcılar tarafından aranan bir özelliktir.
+`Kayıp oranı` diye çevirebiliriz. Bir ürünün ya da hizmetin belirli bir zaman aralığında kaybedilen müşteri sayısının, toplam müşteri sayısına oranıdır. Kayıp oranının düşük olması sadakatin yüksek olması anlamına geldiği için yatırımcılar tarafından aranan bir özelliktir.
 
 #### Competitive Intelligence
 
@@ -157,7 +157,7 @@ Erken aşama olarak çevirilebilir. Genellikle şirketin gelişiminde ilerleme o
 
 #### Exit
 
-`çıkış` ya da `kaçış` diye çevirilebilir. Bir yatırımcının (genellikle bir risk sermayesi sahibi) kazançlarını (veya zararlarını) toparlamak için bir firmadaki hissesini satmasıdır. Genellikle yatırım kararı sırasında planlanan bir harekettir ve girişimin genel planına da dahil edilebilir.
+`çıkış` ya da `kaçış` diye çevrilebilir. Bir yatırımcının (genellikle bir risk sermayesi sahibi) kazançlarını (veya zararlarını) toparlamak için bir firmadaki hissesini satmasıdır. Genellikle yatırım kararı sırasında planlanan bir harekettir ve girişimin genel planına da dahil edilebilir.
 
 #### Elevator Pitch
 
@@ -183,15 +183,15 @@ Birebir çevirisi `Asansör Konuşması` olabilir. Bir girişimcinin asansör yo
 
 #### Incubator
 
-`Kuluçka` olarak Türkçe'ye çevrilebilir. `Incubator`, yeni şirketlere ve girişimlere yönetim eğitimi veya ofis alanı gibi hizmetler sunarak kurumsallaşmasına ve gelişmesine yardımcı olan bir şirket ve ya organizasyondur. Sık sık  hızlandırıcılar ([accelerator](#accelerator) ) ile karıştırılırlar. Hızlandırıcı bitki fidelerinin yetişmesi için en uygun koşulları elde etmek adına bir sera kurar, kuluçka merkezi ise filizlenme ve büyüme için en iyi toprakla kaliteli tohumları eşleştirmeye yardımcı olur.
+`Kuluçka` olarak Türkçe'ye çevrilebilir. `Incubator`, yeni şirketlere ve girişimlere yönetim eğitimi veya ofis alanı gibi hizmetler sunarak kurumsallaşmasına ve gelişmesine yardımcı olan bir şirket ve ya organizasyondur. Sık sık hızlandırıcılar ([accelerator](#accelerator) ) ile karıştırılırlar. Hızlandırıcı bitki fidelerinin yetişmesi için en uygun koşulları elde etmek adına bir sera kurar, kuluçka merkezi ise filizlenme ve büyüme için en iyi toprakla kaliteli tohumları eşleştirmeye yardımcı olur.
 
 #### Initial Public Offering (IPO)
 
-`Halka arz` olarak Türkçe'ye çevrilebilir. Initial Public Offering (IPO), yeni bir hisse ihracında özel bir şirketin hisselerinin ilk defa halka sunulması sürecini ifade eder. Bu payı ihracı, bir şirketin yatırımcılarından sermaye artırmasına izin verir.
+`Halka arz` olarak Türkçe'ye çevrilebilir. Initial Public Offering (IPO), yeni bir hisse ihracında özel bir şirketin hisselerinin ilk defa halka sunulması sürecini ifade eder. Bu pay ihracı, bir şirketin yatırımcılarından sermaye artırmasına izin verir.
 
 #### IP – Intellectual Property
 
-Entelektüel sermaye demektir. Bir şirketin şirket içi bilgi birikimi anlamına gelir. Bu şirkete özel ve rakipleri tarafından kopyalayamayacağı için değerlidir.
+Fikri mülkiyet demektir. Bir şirketin şirket içi bilgi birikimi anlamına gelir. Bu, şirkete özel olduğu ve rakipleri tarafından kopyalanamayacağı için değerlidir.
 
 #### Investment round
 
@@ -205,7 +205,7 @@ Geç aşama olarak çevrilebilir. Bu aşamada şirketler tipik olarak süreklili
 
 #### Launch
 
-Türkçe'de lansman olarak kullanılır. Bir girişim fikrinin hayata geçmesi, veya bir ürünün  aktif olarak pazara sunulmasını demektir.
+Türkçe'de lansman olarak kullanılır. Bir girişim fikrinin hayata geçmesi, veya bir ürünün aktif olarak pazara sunulmasını demektir.
 
 #### Lean startup
 
@@ -230,7 +230,7 @@ Türkçe'de genellikle MVP kısaltması kullanılır. Yeni bir ürünün [erken 
 
 #### Pitch deck
 
-Birebir Türkçe bir eşleniği yoktur (umarım şimdilik). `pitch deck`, yatırımcılara genel bir bakış açısı sağlamak için, ürününüzü sergileyen, iş modelinizi paylaşan, para kazanma stratejinize gösteren ve ekibinizi tanıtan kısa bir sunumdur. Ünlü bazı şirketlerin örneklerini [https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/) adresinden bulabilirsiniz.
+Birebir Türkçe bir eşleniği yoktur (umarım şimdilik). `pitch deck`, yatırımcılara genel bir bakış açısı sağlamak için, ürününüzü sergileyen, iş modelinizi paylaşan, para kazanma stratejinize gösteren ve ekibinizi tanıtan kısa bir sunumdur. Bazı ünlü şirketlerin örneklerini [https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/) adresinden bulabilirsiniz.
 
 #### Proof of Concept (PoC)
 
