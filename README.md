@@ -3,7 +3,7 @@
 Startup dünyasında sık kullanılan kelimeler ve terimler
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](CONTRIBUTING.md) ![WOSPM Checker](https://github.com/umutphp/startup-sozlugu/workflows/WOSPM%20Checker/badge.svg) [![CircleCI](https://circleci.com/gh/umutphp/startup-sozlugu.svg?style=svg)](https://circleci.com/gh/umutphp/startup-sozlugu)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -298,6 +298,7 @@ Hepsine ayrı ayrı teşekkür ederiz :).
 <table>
   <tr>
     <td align="center"><a href="http://hi.do"><img src="https://avatars2.githubusercontent.com/u/777820?v=4" width="100px;" alt=""/><br /><sub><b>Hidayet Doğan</b></sub></a><br /><a href="https://github.com/umutphp/startup-sozlugu/issues?q=author%3Ahdogan" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://anilozbek.blogspot.com/"><img src="https://avatars1.githubusercontent.com/u/633989?v=4" width="100px;" alt=""/><br /><sub><b>Anıl Özbek</b></sub></a><br /><a href="https://github.com/umutphp/startup-sozlugu/commits?author=maidis" title="Documentation">📖</a></td>
   </tr>
 </table>
 
